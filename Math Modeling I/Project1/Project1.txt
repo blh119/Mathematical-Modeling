@@ -1,0 +1,13 @@
+Instructions: submit your project by email to amasuda@citytech.cuny.edu.  
+
+All calculations should be done on Sage/Python.  
+
+A local daily newspaper with a circulation of 60,000 subscribers is thinking of raising its subscription price. Currently the price is $1.25 per week, and it is estimated that the paper would lose 4,500 subscribers if the rate were to be raised by ten cents/week.
+
+(a) Find the subscription price that maximizes profit. Use the five-step method, and model as a one–variable optimization problem.
+
+(b) Examine the sensitivity of your answer in part (a) to the assumption of 4,500 lost subscribers. Calculate the optimal subscription rate assuming that this parameter is 2,500, 3,500, 4,500, 5,500, or 6,500.
+
+(c) Let n=4,500 denote the number of subscribers lost when the subscription price increases by ten cents. Calculate the optimal subscription price p as a function of n, and use this formula to determine the sensitivity S(p;n).
+
+(d) Should the paper change its subscription price? Justify your conclusions in plain English.
